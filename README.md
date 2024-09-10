@@ -13,6 +13,8 @@ Sou um desenvolvedor Full Stack com foco em **desenvolvimento Front-End**, mas t
 - **Ferramentas de Desenvolvimento:** Git, GitHub, Visual Studio Code
 - **Banco de Dados:** Microsoft SQL Server e PostgreSQL
 
+[![Tecnologias Utilizadas](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,figma,java,spring&theme=dark)](https://skillicons.dev)
+
 ### 📈 Estatísticas do GitHub
 <div>
 <a href="https://github.com/david-sfernandes">
