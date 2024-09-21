@@ -26,4 +26,5 @@ Sinta-se à vontade para explorar meus repositórios!
 #### Contato
 <div>
   <a href="https://www.linkedin.com/in/david-sousa-fernandes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/david-sfernandes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-CodePen-%230077B5?style=for-the-badge&logo=codepen&logoColor=white&color=black" target="_blank"></a> 
 </div>
