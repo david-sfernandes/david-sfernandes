@@ -18,7 +18,7 @@ Sou um desenvolvedor Full Stack com foco em **desenvolvimento Front-End**, mas t
 ### 📈 Estatísticas do GitHub
 <div>
 <a href="https://github.com/david-sfernandes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-sfernandes&layout=compact&langs_count=7&theme=blue_navy"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-sfernandes&layout=compact&theme=dark"/>
 </div>
 
 Sinta-se à vontade para explorar meus repositórios!
