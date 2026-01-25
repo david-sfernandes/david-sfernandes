@@ -1,31 +1,136 @@
-## Olá! Eu sou o David Sousa Fernandes 👋
+# 👨‍💻 David Sousa Fernandes
 
-Sou um desenvolvedor Full Stack com foco em **desenvolvimento Front-End**, mas também com experiência em **desenvolvimento Back-End**. Trabalho principalmente com **HTML, CSS, JavaScript, React.js, e Next.js** no front-end e estou explorando tecnologias como **Node.js, Java e Spring** no back-end.
+**Full Stack Developer | TypeScript • Node.js • React • Cloud • Data Automation**
 
-### 🚀 Sobre mim
-- 🎓 Formado em Ciência da Computação na UNIP.
-- 💻 Tenho experiência na criação de projetos utilizando **React.js**, **Next.js**, **Node.js**, e **Spring**.
-- 📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,postgres,docker,azure,git,linux" />
+</p>
 
-### 🛠 Tecnologias e Ferramentas
-- **Front-End:** HTML, CSS, JavaScript, React.js, Next.js
-- **Back-End:** Node.js, Java e Spring
-- **Ferramentas de Desenvolvimento:** Git, GitHub, Visual Studio Code
-- **Banco de Dados:** Microsoft SQL Server e PostgreSQL
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=david-sfernandes&theme=github_dark" alt="GitHub Streak" />
+</p>
 
-[![Tecnologias Utilizadas](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,figma,java,spring&theme=dark)](https://skillicons.dev)
+---
 
-### 📈 Estatísticas do GitHub
-<div>
-<a href="https://github.com/david-sfernandes">
-<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-sfernandes&layout=compact&theme=dark"/>
-</div>
+# 🇧🇷 Sobre mim
 
-Sinta-se à vontade para explorar meus repositórios!
+Sou um **Desenvolvedor Full Stack Júnior** com formação em **Ciência da Computação** e experiência prática em **desenvolvimento web, APIs, automações e cloud**.
 
-#### Contato
-<div>
-  <a href="https://www.davidfernandes.tech" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logoColor=white&color=%23F85B03" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/david-sfernandes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://codepen.io/david-sfernandes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-CodePen-%230077B5?style=for-the-badge&logo=codepen&logoColor=white&color=black" target="_blank"></a> 
-</div>
+Atuo de ponta a ponta no ciclo de software:
+**arquitetura, backend, frontend, banco de dados, automação e deploy**.
+
+Tenho uma forte base em **infraestrutura, Linux e ambientes em nuvem**, o que me permite construir sistemas que são **estáveis, escaláveis e prontos para produção**.
+
+---
+
+# 🇺🇸 About me
+
+I am a **Junior Full Stack Developer** with a degree in **Computer Science** and hands-on experience building **web applications, APIs, automation systems and cloud-ready platforms**.
+
+I work across the full stack:
+**architecture, backend, frontend, databases, automation and deployment**.
+
+With a strong background in **Linux, infrastructure and cloud environments**, I focus on building **reliable, scalable and production-ready systems**.
+
+---
+
+# 🧠 Tech Stack
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,storybook" />
+</p>
+
+### Back-end & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,graphql" />
+</p>
+
+**+** BetterAuth • RabbitMQ • REST
+
+---
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+**+** Prisma • Apache Airflow
+
+---
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,git,github" />
+</p>
+
+**+** PNPM • CI/CD • Containers • TurboRepo
+
+---
+
+### Testing & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vscode,firebase" />
+</p>
+
+**+** Biome • HTTPie
+
+---
+
+# 🏗️ What I Build
+
+I design and build:
+
+* **Full-stack web platforms**
+* **Authentication & authorization systems**
+* **REST & GraphQL APIs**
+* **Data pipelines and automations**
+* **Dashboards and reporting**
+* **Cloud-ready, containerized applications**
+
+With focus on:
+
+* Scalability
+* Performance
+* Security
+* Clean Architecture
+* Maintainability
+
+---
+
+# 📊 Engineering Practices
+
+* Modular & Clean Architecture
+* Database modeling
+* API-first design
+* ETL & automation pipelines
+* Cloud deployment
+* Git-based workflows
+* Observability & monitoring
+
+---
+
+# 📫 Let’s connect
+
+<p align="center">
+  <a href="https://github.com/david-sfernandes">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/david-sfernandes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.davidfernandes.tech">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+# 🧲 Recruiter-friendly keywords
+
+`Full Stack` • `Next.js` • `React` • `TypeScript` • `Node.js` • `GraphQL` • `PostgreSQL` • `Docker` • `Azure` • `CI/CD` • `Cloud` • `REST` • `APIs` • `ETL` • `Automation` • `MonoRepo`
